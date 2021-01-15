@@ -1,0 +1,11 @@
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\bin\Debug\Menu.exe.config
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\bin\Debug\Menu.exe
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\bin\Debug\Menu.pdb
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.Form2.resources
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.exe
+D:\UC\Algorithma\Week 15\Jumat\Pratikum\Menu\Menu\obj\Debug\Menu.pdb
